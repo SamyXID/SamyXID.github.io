@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>samyxid.github.io/posts/keset/</loc>
+    <loc>https://samyxid.github.io/posts/keset/</loc>
     <lastmod>2019-02-13T20:56:29+07:00</lastmod>
   </url>
   
   <url>
-    <loc>samyxid.github.io/authors/</loc>
+    <loc>https://samyxid.github.io/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>samyxid.github.io/categories/</loc>
+    <loc>https://samyxid.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>samyxid.github.io/languages/</loc>
+    <loc>https://samyxid.github.io/languages/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>samyxid.github.io/posts/</loc>
-    <lastmod>2019-02-13T20:56:29+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>samyxid.github.io/</loc>
+    <loc>https://samyxid.github.io/posts/</loc>
     <lastmod>2019-02-13T20:56:29+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>samyxid.github.io/tags/</loc>
+    <loc>https://samyxid.github.io/</loc>
+    <lastmod>2019-02-13T20:56:29+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samyxid.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Samy Mawon</title>
-    <link>samyxid.github.io/posts/</link>
+    <link>https://samyxid.github.io/posts/</link>
     <description>Recent content in Posts on Samy Mawon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Feb 2019 20:56:29 +0700</lastBuildDate>
     
-	<atom:link href="samyxid.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samyxid.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Keset</title>
-      <link>samyxid.github.io/posts/keset/</link>
+      <link>https://samyxid.github.io/posts/keset/</link>
       <pubDate>Wed, 13 Feb 2019 20:56:29 +0700</pubDate>
       
-      <guid>samyxid.github.io/posts/keset/</guid>
+      <guid>https://samyxid.github.io/posts/keset/</guid>
       <description>Keset to My Go-Blog awk awk awk awk awk</description>
     </item>
     
